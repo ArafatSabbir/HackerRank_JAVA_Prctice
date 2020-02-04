@@ -1,2 +1,2 @@
-# HackerRank_JAVA_Prctice
-All java Practice in HackerRank.
+# HackerRank JAVA Prctice
+All java Practice in Hacker Rank.
